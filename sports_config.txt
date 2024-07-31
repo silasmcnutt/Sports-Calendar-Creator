@@ -1,0 +1,11 @@
+League: NFL
+Team: 9
+League: MLB
+Team: 17
+League: F1
+League: NHL
+Team: 29
+League: MLS
+Team: 18267
+League: CS2
+Team: 6665

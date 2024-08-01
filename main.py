@@ -1,9 +1,3 @@
-import sys
-
-sys.path.append(
-    "/Users/silas/AppData/Local/Programs/Python/Python310/Lib/site-packages"
-)
-
 import ntpath
 import os
 import xml.etree.ElementTree as ET

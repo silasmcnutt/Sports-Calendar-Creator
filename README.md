@@ -13,8 +13,6 @@
 4. Copy this code under `dropbox_config.txt` in the project's working directory.
 5. Open `sports_config.txt` and write the leagues and their respective teams you would like to follow. Each leagues team ID's are listed below. The format of `sports_config.txt` should look something as follows:
 
-> **Note: F1 does not require a `Team` line.**
-
 ```
 League: NFL
 Team: 9
@@ -22,6 +20,9 @@ League: MLB
 Team: 17
 League: F1
 ```
+
+> **Note: F1 does not require a `Team` line.**
+
 6. Run `main.py`
 7. If wanting to add the .ics files to something like Google Calendar, copy the link for the file from Dropbox and paste it into the URL box when creating a new calendar from URL. **Important:** Change the `dl=0` at the end of the link to `dl=1`.
 
@@ -709,7 +710,9 @@ Full list of supported leagues:
 </details>
 
 ## Support
-If you have any questions or suggestions regaerding the spreadsheet, please feel free to reach out and message me on Discord. My username is `mcsilas.` (yes, the period is included).
+
+If you have any questions or suggestions regarding the spreadsheet, please feel free to reach out and message me on Discord. My username is `mcsilas.` (yes, the period is included).
 
 ## License
+
 This project is licensed under the terms of the [MIT](https://github.com/silasmcnutt/ultimate-coaster-spreadsheet/blob/main/LICENSE.txt) license.
